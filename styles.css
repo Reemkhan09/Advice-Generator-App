@@ -106,7 +106,7 @@ body{
   }
 
   #Divider img{
-    content: url("/images/pattern-divider-desktop.svg");
+    content: url("./images/pattern-divider-desktop.svg");
 
   }
 
@@ -130,7 +130,7 @@ body{
   }
 
   #Divider img{
-    content: url("/images/pattern-divider-mobile.svg");
+    content: url("./images/pattern-divider-mobile.svg");
 
   }
 
